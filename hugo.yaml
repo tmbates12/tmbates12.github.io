@@ -1,4 +1,12 @@
-baseURL: https://example.org/
+baseURL: https://tmbates12.github.io/
 languageCode: en-us
-title: My New Hugo Site
-theme: ["PaperMod"]
+title: "Taylor's Workshop"
+theme: [PaperMod]
+copyright: "© Taylor Bates"
+
+enableRobotsTXT: true
+enableEmoji: true
+mainsections: ["posts"]
+
+params:
+  env: production
