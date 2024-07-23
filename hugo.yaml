@@ -7,6 +7,7 @@ copyright: "© Taylor Bates"
 enableRobotsTXT: true
 enableEmoji: true
 mainsections: ["posts"]
+canonifyurls: true
 
 params:
   env: production
