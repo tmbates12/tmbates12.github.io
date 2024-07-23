@@ -12,12 +12,12 @@ However, the answer to this problem in the future may very well be to use a rigi
 
 # The schematic and board design!
 Here's the schematic, it's essentially the reference design, but with a few tweaks to fit what I was able to find on Digi-Key at the time of designing (July 2024) and what I was able to get as samples from VPG (The two "important" dividers).
-![ADR1000 Reference Board Schematic](/posts/adr1000-refboard-schem.png)
+![ADR1000 Reference Board Schematic](/posts/images/adr1000-refboard-schem.png)
 
 As for the board design, I just did the bare minimum, and I still need to 3D print the plastic cap for the ADR1000 itself.
 Here's some quick images of the board design in KiCAD, as well as IRL.
-![ADR1000 Reference Board PCB Design](/posts/adr1000-refboard-board.png)
-![ADR1000 Reference Board PCB Picture](/posts/adr1000-refboard-IRL.jpg)
+![ADR1000 Reference Board PCB Design](/posts/images/adr1000-refboard-board.png)
+![ADR1000 Reference Board PCB Picture](/posts/images/adr1000-refboard-IRL.jpg)
 
 # Some super quick measurements
 I've taken some pretty quick measurements while the reference is still "fresh", but we'll see how it ends up after it burns in for a while.
