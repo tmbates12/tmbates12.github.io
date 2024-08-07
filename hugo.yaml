@@ -9,5 +9,21 @@ enableEmoji: true
 mainsections: ["posts"]
 canonifyurls: true
 
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
+
 params:
   env: production
+  math: true
